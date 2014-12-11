@@ -1,0 +1,17 @@
+{
+    "name": "iknowapp/baidu-push-sdk",
+    "description": "Baidu Push sdk base for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangchao",
+            "email": "iknowapp@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "files": ["baidu/Channel.class.php"]
+    }
+}
